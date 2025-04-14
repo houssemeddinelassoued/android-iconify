@@ -1,3 +1,5 @@
+// Modif by Houssem Eddine
+
 Auto-generate Android icons for multiple densities
 
 Frustrated with resizing icons for multiple screen orientations and densities?  This python script will automatically generate optimized icons for your Android app for all 'standard' densities! 

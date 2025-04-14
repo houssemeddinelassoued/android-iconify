@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """
 @file android_iconify.py
-@author Michael Mitchell && Houssem Eddine
+@author Michael Mitchell and Houssem Eddine LASSOUED
 @date Sept 18, 2011
 @brief Automate the re-sizing of icons for Android using python and ImageMagick.
 @usage android-iconify.py icon_file_to_convert.png

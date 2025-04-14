@@ -11,7 +11,7 @@ Naming and sizing based on suggested developer practices here:
 http://developer.android.com/guide/practices/ui_guidelines/icon_design.html
 """
 import os, sys
-
+# bonjour les amis
 if len(sys.argv) != 2:  # the program name and image file.png
   sys.exit("Usage: android_iconify.py icon_file_to_convert.png")
 
